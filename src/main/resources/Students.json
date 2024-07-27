@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Lê Phước Hậu",
+    "gender": true,
+    "marks": 9.0,
+    "subjects": ["Java5","Java6"],
+    "contact": {
+      "email": "lephuochau.fpt@gmail.com",
+      "phone": "0393440786"
+    }
+  },
+  {
+    "name": "Phạm Ngọc Duyên",
+    "gender": false,
+    "marks": 9.0,
+    "subjects": ["Java5","Java6"],
+    "contact": {
+      "email": "lephuochau.fpt@gmail.com",
+      "phone": "0393440786"
+    }
+  }
+]
